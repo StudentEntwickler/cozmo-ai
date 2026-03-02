@@ -1,1 +1,1 @@
-# cozmi-ai
+# cozmo-ai
